@@ -85,9 +85,29 @@
               </div>
             </div>
           </div>
+        </div>
+      </div>
+      <div class="Parcours">
+        <div class="Parcours_Title">
+          <h1>Parcours</h1>
+        </div>
+        <div class="arrow">
 
         </div>
-
+        <div class="timeline">
+          <div class="First">
+            <p><span>2005-2011:</span> Institut of "Sainte-Famille" from Mons - Ursulines - CESS.</p>
+          </div>
+          <div class="First">
+            <p><span>2011-2013:</span> Umons - 1st Bachelor of Medecine.</p>
+          </div>
+          <div class="First">
+            <p><span>2013-2017:</span> IRAMPS Mons - Bachelor of Accounting option Management -> With Satisfaction.</p>
+          </div>
+          <div class="First">
+            <p><span>2017-2018 (Sep-Apr):</span> BECODE - BXL -> Formation: Junior Web Developer.</p>
+          </div>
+        </div>
       </div>
   </body>
 </html>

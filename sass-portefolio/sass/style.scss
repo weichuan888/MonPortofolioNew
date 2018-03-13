@@ -47,7 +47,8 @@ header {
   // background-color: #B2E1D7;
   // background: linear-gradient(#a1c4fd, #c2e9fb);
   // background: linear-gradient(#48c6ef, #6f86d6);
-  background: linear-gradient(#48c6ef, #a1c4fd);
+  // background: linear-gradient(#48c6ef, #a1c4fd);
+  background-color: #C6E1C2;
   font-family: 'Open Sans', sans-serif;
   .block_Left {
     width: 35%;
@@ -182,4 +183,12 @@ header {
       font-weight: bold;
     }
   }
+}
+
+
+.Parcours {
+  background-color: #550A21;
+  width: 100%;
+  height: 500px;
+
 }
